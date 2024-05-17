@@ -1,0 +1,7 @@
+# ./build.sh
+
+venv
+db.sqlite3
+media
+_pycache_
+**/_pycache_
